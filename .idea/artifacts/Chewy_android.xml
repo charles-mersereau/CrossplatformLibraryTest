@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chewy-android">
+    <output-path>C:\Users\CharlesMersereau\AndroidStudioProjects\CrossplatformLibraryTest\Chewy\build\libs</output-path>
+    <root id="archive" name="Chewy-android.jar" />
+  </artifact>
+</component>
